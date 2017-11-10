@@ -1,11 +1,12 @@
 
-The initial git commit didn't work.
+The initial 'Publish' command didn't work.  
+Tht git log showed the following eorror:
 The git log said to do the following:
 
   git config --global user.email "you@example.com"
   git config --global user.name "Your Name"
 
-I hit ctrl-` to open a command prompt then entered:
+To fix it, I hit ctrl-` in VS Code to open a command prompt, then entered:
 
-git config --global user.email "knoxtimore2003@gmail.com"
-git config --global user.name "Andy Sheldon"
+  git config --global user.email "knoxtimore2003@gmail.com"
+  git config --global user.name "Andy Sheldon"
